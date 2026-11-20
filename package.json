@@ -1,0 +1,8 @@
+{
+  "name": "essai-github",
+  "version": "1.0.0",
+  "description": "Projet d'essai pour GitHub dans Metin 2.0",
+  "type": "module",
+  "scripts": { "test": "node --test" },
+  "license": "MIT"
+}
